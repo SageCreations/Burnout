@@ -8,8 +8,9 @@
 ### BURNOUT 2.0 MECHANICS DOCUMENT:
 
 
--The Chemist 
-	The Chemist is the player character. This character, a chemist (obviously), stayed up for three days and accidentally set themselves on fire. Bummer.
+-The Chemist
+
+The Chemist is the player character. This character, a chemist (obviously), stayed up for three days and accidentally set themselves on fire. Bummer.
 
 As the Chemist, the player must move and jump around the environment while avoiding any obstacles, with the ultimate goal being to reach the shower so you can extinguish the fire.
 
