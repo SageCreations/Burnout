@@ -34,7 +34,7 @@ Here’s the chemist while not on fire:
 -Conveyor Belt
 	Conveyor Belts work similarly to oil slicks, but without the fire and limited movement. You can move either left or right, but if you move against the conveyor belt’s natural direction, you’ll be met with some resistance.
 
-
+![Imgur](https://i.imgur.com/Nxuhtjr.png)
 
 -Platforms/Floor
 	Platforms act as the floor for the player character. The player can walk across them and jump on them. They appear to be made out of concrete.
